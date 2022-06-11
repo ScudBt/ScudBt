@@ -10,7 +10,7 @@
 <br />
 
 
-** Passionate SWE, hoping to bring impact to the tech industry and the entire humanity  **
+**Passionate SWE, hoping to bring impact to the tech industry and the entire humanity**
 
 - 🔭 I’m currently a B.S. in Computer Science, B.A. in Global Studies double major at University of California, Santa Barbara.
 - 🌱 I’m currently learning advanced visualization tools including graph databases and interactive monitoring tools (Neo4j, Grafana, Tableau...)
