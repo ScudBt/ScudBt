@@ -1,4 +1,4 @@
-### Hi there 👋, this is Jonas Z.!
+### Hi there 👋, this is J. Z.!
 
 <a href="https://leetcode.com/zhy1594102803/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
