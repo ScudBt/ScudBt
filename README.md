@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/jonathan-h-z/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 </a>
+<br />
 
 - 🔭 I’m currently a B.S. in Computer Science, B.A. in Global Studies double major at University of California, Santa Barbara.
 - 🌱 I’m currently learning ...
