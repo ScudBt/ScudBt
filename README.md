@@ -16,6 +16,6 @@
 - 🌱 I’m currently learning advanced visualization tools including graph databases and interactive monitoring tools (Neo4j, Grafana, Tableau...)
 - 🤔 Finding new grad position ...
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: VR/sea sports/drone/video games/sci-fi/movie lover!🎃
-- 💬 Ask me about everything! 😉 
+- ⚡ Fun fact: VR/sea sports/drone/video games/sci-fi/movie lover!
+- 💬 Ask me about everything! 
 -->
