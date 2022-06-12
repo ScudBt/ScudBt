@@ -20,7 +20,7 @@
 - 💬 Ask me about everything! 
 - 📫 Contact: zhy1594102803@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scudbt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scudbt&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **Languages:**
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
