@@ -8,10 +8,11 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: VR/sea sports/drone/video games/sci-fi/movie lover!
 - 📫 Contact: zhy1594102803@gmail.com <a href="https://leetcode.com/zhy1594102803/">
-  <img alt="Leetcode" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/leetcode.svg" /> 
 </a> <a href="https://www.linkedin.com/in/jonathan-h-z/">
   <img alt="LinkedIn" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 </a>
+- 💻 Coding: <img alt="Leetcode" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/leetcode.svg" /> 
+
 
 
 - **Languages:**
