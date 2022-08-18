@@ -7,12 +7,9 @@
 - 🤔 Finding new grad position ...
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: VR/sea sports/drone/video games/sci-fi/movie lover!
-- 📫 Contact: zhy1594102803@gmail.com <a href="https://leetcode.com/zhy1594102803/">
-</a> <a href="https://www.linkedin.com/in/jonathan-h-z/">
-  <img alt="LinkedIn" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
-</a>
-- 💻 Coding: <img alt="Leetcode" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/leetcode.svg" /> 
-
+- 📫 Email: zhy1594102803@gmail.com
+- 🤝 LinkedIn: https://www.linkedin.com/in/jonathan-h-z/
+- 💻 Leetcode: https://leetcode.com/zhy1594102803/
 
 
 - **Languages:**
