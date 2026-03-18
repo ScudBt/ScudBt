@@ -2,15 +2,6 @@
 
 **Passionate SWE, hoping to bring impact to the tech industry and the entire humanity**
 
-- 🔭 I’m currently a B.S. in Computer Science, B.A. in Global Studies double major at University of California, Santa Barbara.
-- 🌱 I’m currently learning advanced visualization tools including graph databases and interactive monitoring tools (Neo4j, Grafana, Tableau...)
-- 🤔 Finding new grad position ...
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: VR/sea sports/drone/video games/sci-fi/movie lover!
-- 📫 Email: zhy1594102803@gmail.com
-- 🤝 LinkedIn: https://www.linkedin.com/in/jonathan-h-z/
-- 💻 Leetcode: https://leetcode.com/zhy1594102803/
-
 
 - **Languages:**
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
